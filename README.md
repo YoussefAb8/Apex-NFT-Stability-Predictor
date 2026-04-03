@@ -20,4 +20,6 @@ It predicts this stability based on multiple on-chain indicators.
 * Format: ONNX (Deployed as a verifiable model on OpenGradient).
 * Input: Float array representing market features.
 * Output: [0] for Stable, [1] for Volatile.
+
+* ## On-chain Validation (Proof of Execution)
 <img width="1324" height="564" alt="Screenshot 2026-04-03 023105" src="https://github.com/user-attachments/assets/3437e5dc-b7ca-494a-aeb6-fe06711b44b7" />
